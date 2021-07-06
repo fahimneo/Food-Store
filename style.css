@@ -83,7 +83,7 @@ transition: all linear 0.3s;
 
 /* 1st section start from here */
 .orange{
-    color: orange;
+    color: rgb(255, 81, 0);
 }
 h1{
     font-size: 45px;
